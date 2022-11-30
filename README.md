@@ -1,5 +1,5 @@
 # Hackerrank javascript
-The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the plan "3 Months Preparation Kit"
+The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the plan "3 Months Preparation Kit". All solutions passes the tests
 
 # 3 Months Preparation Kit
 | Week  | Challenge | Solution |
