@@ -10,3 +10,4 @@ The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the 
 | 0 | [Camel Case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/Camel%20Case%204.js) |
 | 0 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/three-month-preparation-kit-divisible-sum-pairs/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/Divisible%20Sum%20Pairs.js) |
 | 0 | [Sparse Arrays](https://www.hackerrank.com/challenges/three-month-preparation-kit-sparse-arrays/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/Sparse%20Arrays.js) |
+| 0 | [FizzBuzz (Sample test)](https://www.hackerrank.com/test/143hd7jsid6/questions/521e954e6ff11)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/FizzBuzz.js) |
