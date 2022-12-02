@@ -1,7 +1,7 @@
 # Hackerrank javascript
 The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the plan "3 Months Preparation Kit". All solutions passes the tests
 
-# 3 Months Preparation Kit
+# 3 Months Preparation Kit [11/104] + [1/13 Sample test]
 | Week  | Challenge | Solution |
 | :---: | :---:     | :---:    |
 | 1 | [Plus Minus](https://www.hackerrank.com/challenges/three-month-preparation-kit-plus-minus)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/Plus%20Minus.js) |
@@ -14,5 +14,6 @@ The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the 
 | 2 | [Lonely Integer](https://www.hackerrank.com/challenges/three-month-preparation-kit-lonely-integer/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%202/Lonely%20Integer.js) |
 | 2 | [Grading Students](https://www.hackerrank.com/challenges/three-month-preparation-kit-grading/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%202/Grading%20Students.js) |
 | 2 | [Flipping Bits](https://www.hackerrank.com/challenges/three-month-preparation-kit-flipping-bits/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%202/Flipping%20bits.js) |
+| 2 | [Diagonal Difference](https://www.hackerrank.com/challenges/three-month-preparation-kit-diagonal-difference/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%202/Diagonal%20Difference.js) |
 
 
