@@ -1,7 +1,7 @@
 # Hackerrank javascript
 The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the plan "3 Months Preparation Kit". All solutions passes the tests
 
-# 3 Months Preparation Kit [15/104] + [1/1 Sample test]
+# 3 Months Preparation Kit [16/104] + [1/1 Sample test]
 | Week  | Challenge | Solution |
 | :---: | :---:     | :---:    |
 | 1 | [Plus Minus](https://www.hackerrank.com/challenges/three-month-preparation-kit-plus-minus)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/Plus%20Minus.js) |
@@ -19,6 +19,7 @@ The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the 
 | 2 | [Counting Valleys](https://www.hackerrank.com/challenges/three-month-preparation-kit-counting-valleys/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%202/Counting%20Valleys.js) |
 | 2 | [Pangrams](https://www.hackerrank.com/challenges/three-month-preparation-kit-pangrams/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%202/Pangrams.js) |
 | 2 | [Mars Exploration](https://www.hackerrank.com/challenges/three-month-preparation-kit-mars-exploration/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%202/Mars%20Exploration.js) |
+| 3 | [Permuting Two Arrays](https://www.hackerrank.com/challenges/three-month-preparation-kit-two-arrays/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/Permuting%20Two%20Arrays.js) |
 
 
 
