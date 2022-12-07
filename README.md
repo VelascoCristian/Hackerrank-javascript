@@ -20,6 +20,7 @@ The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the 
 | 2 | [Pangrams](https://www.hackerrank.com/challenges/three-month-preparation-kit-pangrams/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%202/Pangrams.js) |
 | 2 | [Mars Exploration](https://www.hackerrank.com/challenges/three-month-preparation-kit-mars-exploration/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%202/Mars%20Exploration.js) |
 | 3 | [Permuting Two Arrays](https://www.hackerrank.com/challenges/three-month-preparation-kit-two-arrays/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/Permuting%20Two%20Arrays.js) |
+| 3 | [Subarray Division 2](https://www.hackerrank.com/challenges/three-month-preparation-kit-the-birthday-bar)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/Subarray%20Division%202.js) |
 
 
 
