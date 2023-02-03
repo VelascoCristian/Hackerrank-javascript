@@ -1,7 +1,7 @@
 # Hackerrank javascript
 The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the plan "3 Months Preparation Kit". All solutions passes the tests
 
-# 3 Months Preparation Kit [19/104] + [1/1 Sample test]
+# 3 Months Preparation Kit [20/104] + [1/1 Sample test]
 | Week  | Challenge | Solution |
 | :---: | :---:     | :---:    |
 | 1 | [Plus Minus](https://www.hackerrank.com/challenges/three-month-preparation-kit-plus-minus)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/Plus%20Minus.js) |
@@ -23,6 +23,7 @@ The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the 
 | 3 | [Subarray Division 2](https://www.hackerrank.com/challenges/three-month-preparation-kit-the-birthday-bar/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/Subarray%20Division%202.js) |
 | 3 | [XOR Strings 3](https://www.hackerrank.com/challenges/three-month-preparation-kit-strings-xor/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/XOR%20Strings%203.py) |
 | 3 | [Sales by Match](https://www.hackerrank.com/challenges/three-month-preparation-kit-sock-merchant/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/Sales%20by%20Match.js) |
+| 3 | [Migratory Birds](https://www.hackerrank.com/challenges/three-month-preparation-kit-migratory-birds/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/Migratory%20Birds.js) |
 
 
 
