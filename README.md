@@ -24,6 +24,7 @@ The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the 
 | 3 | [XOR Strings 3](https://www.hackerrank.com/challenges/three-month-preparation-kit-strings-xor/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/XOR%20Strings%203.py) |
 | 3 | [Sales by Match](https://www.hackerrank.com/challenges/three-month-preparation-kit-sock-merchant/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/Sales%20by%20Match.js) |
 | 3 | [Migratory Birds](https://www.hackerrank.com/challenges/three-month-preparation-kit-migratory-birds/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/Migratory%20Birds.js) |
+| 3 | [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/three-month-preparation-kit-maximum-perimeter-triangle)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/Maximum%20Perimeter%20Triangle.js) |
 
 
 
