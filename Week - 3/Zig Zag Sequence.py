@@ -1,4 +1,4 @@
-# You have to change the programming language to be able to pass the exams,
+# You have to change the programming language to be able to pass the exams, like python3,
 # at the moment of uploading the file, it is not possible to pass the exams with JavaScript.
 def findZigZagSequence(a, n):
     a.sort()
