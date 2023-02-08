@@ -2,7 +2,7 @@
 The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the plan "3 Months Preparation Kit". All solutions passes the tests.  
 There are 2 exercises that cannot be passed using JavaScript, so I used python3 to pass the test.
 
-# 3 Months Preparation Kit [24/104] + [1/1 Sample test]
+# 3 Months Preparation Kit [25/104] + [1/1 Sample test]
 | Week  | Challenge | Solution |
 | :---: | :---:     | :---:    |
 | 1 | [Plus Minus](https://www.hackerrank.com/challenges/three-month-preparation-kit-plus-minus)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/Plus%20Minus.js) |
@@ -29,6 +29,7 @@ There are 2 exercises that cannot be passed using JavaScript, so I used python3 
 | 3 | [Zig Zag Sequence](https://www.hackerrank.com/challenges/three-month-preparation-kit-zig-zag-sequence/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/Zig%20Zag%20Sequence.py) |
 | 3 | [Drawing Book](https://www.hackerrank.com/challenges/three-month-preparation-kit-drawing-book)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%203/Drawing%20Book.js) |
 | 4 | [Picking Numbers](https://www.hackerrank.com/challenges/three-month-preparation-kit-picking-numbers)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Picking%20Numbers.js) |
+| 4 | [Left Rotation](https://www.hackerrank.com/challenges/three-month-preparation-kit-array-left-rotation)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Left%20Rotation.js) |
 
 
 
