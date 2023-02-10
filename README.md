@@ -31,6 +31,7 @@ There are 2 exercises that cannot be passed using JavaScript, so I used python3 
 | 4 | [Picking Numbers](https://www.hackerrank.com/challenges/three-month-preparation-kit-picking-numbers)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Picking%20Numbers.js) |
 | 4 | [Left Rotation](https://www.hackerrank.com/challenges/three-month-preparation-kit-array-left-rotation)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Left%20Rotation.js) |
 | 4 | [Number Line Jumps](https://www.hackerrank.com/challenges/three-month-preparation-kit-kangaroo)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Number%20Line%20Jumps.js) |
+| 4 | [Separate the Numbers](https://www.hackerrank.com/challenges/three-month-preparation-kit-separate-the-numbers)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Separate%20the%20Numbers.js) |
 
 
 
