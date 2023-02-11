@@ -2,7 +2,7 @@
 The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the plan "3 Months Preparation Kit". All solutions passes the tests.  
 There are 2 exercises that cannot be passed using JavaScript, so I used python3 to pass the test.
 
-# 3 Months Preparation Kit [26/104] + [1/1 Sample test]
+# 3 Months Preparation Kit [27/104] + [1/1 Sample test]
 | Week  | Challenge | Solution |
 | :---: | :---:     | :---:    |
 | 1 | [Plus Minus](https://www.hackerrank.com/challenges/three-month-preparation-kit-plus-minus)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/Plus%20Minus.js) |
@@ -32,6 +32,7 @@ There are 2 exercises that cannot be passed using JavaScript, so I used python3 
 | 4 | [Left Rotation](https://www.hackerrank.com/challenges/three-month-preparation-kit-array-left-rotation)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Left%20Rotation.js) |
 | 4 | [Number Line Jumps](https://www.hackerrank.com/challenges/three-month-preparation-kit-kangaroo)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Number%20Line%20Jumps.js) |
 | 4 | [Separate the Numbers](https://www.hackerrank.com/challenges/three-month-preparation-kit-separate-the-numbers)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Separate%20the%20Numbers.js) |
+| 4 | [Closest Numbers](https://www.hackerrank.com/challenges/three-month-preparation-kit-closest-numbers/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Closest%20Numbers.js) |
 
 
 
