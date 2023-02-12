@@ -33,6 +33,7 @@ There are 2 exercises that cannot be passed using JavaScript, so I used python3 
 | 4 | [Number Line Jumps](https://www.hackerrank.com/challenges/three-month-preparation-kit-kangaroo)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Number%20Line%20Jumps.js) |
 | 4 | [Separate the Numbers](https://www.hackerrank.com/challenges/three-month-preparation-kit-separate-the-numbers)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Separate%20the%20Numbers.js) |
 | 4 | [Closest Numbers](https://www.hackerrank.com/challenges/three-month-preparation-kit-closest-numbers/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Closest%20Numbers.js) |
+| 4 | [Add Tower Breakers](https://www.hackerrank.com/challenges/three-month-preparation-kit-tower-breakers-1)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Tower%20Breakers.js) |
 
 
 
