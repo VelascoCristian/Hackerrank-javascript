@@ -2,7 +2,7 @@
 The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the plan "3 Months Preparation Kit". All solutions passes the tests.  
 There are 2 exercises that cannot be passed using JavaScript, so I used python3 to pass the test.
 
-# 3 Months Preparation Kit [31/104] + [1/1 Sample test]
+# 3 Months Preparation Kit [32/104] + [1/1 Sample test]
 | Week  | Challenge | Solution |
 | :---: | :---:     | :---:    |
 | 1 | [Plus Minus](https://www.hackerrank.com/challenges/three-month-preparation-kit-plus-minus)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/Plus%20Minus.js) |
@@ -36,6 +36,7 @@ There are 2 exercises that cannot be passed using JavaScript, so I used python3 
 | 4 | [Add Tower Breakers](https://www.hackerrank.com/challenges/three-month-preparation-kit-tower-breakers-1)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Tower%20Breakers.js) |
 | 4 | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/three-month-preparation-kit-minimum-absolute-difference-in-an-array/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Minimum%20Absolute%20Difference%20in%20an%20Array.js) |
 | 4 | [Caesar Cipher](https://www.hackerrank.com/challenges/three-month-preparation-kit-caesar-cipher-1)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Caesar%20Cipher.js) |
+| 5 | [Max Min](https://www.hackerrank.com/challenges/three-month-preparation-kit-angry-children)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%205/Max%20Min.js) |
 
 
 
