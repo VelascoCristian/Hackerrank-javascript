@@ -2,7 +2,7 @@
 The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the plan "3 Months Preparation Kit". All solutions passes the tests.  
 There are 2 exercises that cannot be passed using JavaScript, so I used python3 to pass the test.
 
-# 3 Months Preparation Kit [33/104] + [1/1 Sample test]
+# 3 Months Preparation Kit [34/104] + [1/1 Sample test]
 | Week  | Challenge | Solution |
 | :---: | :---:     | :---:    |
 | 1 | [Plus Minus](https://www.hackerrank.com/challenges/three-month-preparation-kit-plus-minus)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/Plus%20Minus.js) |
@@ -38,6 +38,7 @@ There are 2 exercises that cannot be passed using JavaScript, so I used python3 
 | 4 | [Caesar Cipher](https://www.hackerrank.com/challenges/three-month-preparation-kit-caesar-cipher-1)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%204/Caesar%20Cipher.js) |
 | 5 | [Max Min](https://www.hackerrank.com/challenges/three-month-preparation-kit-angry-children)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%205/Max%20Min.js) |
 | 5 | [Strong Password](https://www.hackerrank.com/challenges/three-month-preparation-kit-strong-password/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%205/Strong%20Password.js) |
+| 5 | [Dynamic Array](https://www.hackerrank.com/challenges/three-month-preparation-kit-dynamic-array/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%205/Dynamic%20Array.js) |
 
 
 
