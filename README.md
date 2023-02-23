@@ -40,6 +40,7 @@ There are 3 exercises that cannot be passed using JavaScript, so I used python3 
 | 5 | [Strong Password](https://www.hackerrank.com/challenges/three-month-preparation-kit-strong-password/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%205/Strong%20Password.js) |
 | 5 | [Dynamic Array](https://www.hackerrank.com/challenges/three-month-preparation-kit-dynamic-array/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%205/Dynamic%20Array.js) |
 | 5 | [Smart Number 2](https://www.hackerrank.com/challenges/three-month-preparation-kit-smart-number/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%205/Smart%20Number%202.py) |
+| 5 | [Missing Numbers](https://www.hackerrank.com/challenges/three-month-preparation-kit-missing-numbers/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%205/Missing%20Numbers.js) |
 
 
 
