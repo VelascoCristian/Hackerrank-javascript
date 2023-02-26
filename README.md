@@ -2,7 +2,7 @@
 The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the plan "3 Months Preparation Kit". All solutions passes the tests.  
 There are 3 exercises that cannot be passed using JavaScript, so I used python3 to pass the test.
 
-# 3 Months Preparation Kit [37/104] + [1/1 Sample test]
+# 3 Months Preparation Kit [38/104] + [1/1 Sample test]
 | Week  | Challenge | Solution |
 | :---: | :---:     | :---:    |
 | 1 | [Plus Minus](https://www.hackerrank.com/challenges/three-month-preparation-kit-plus-minus)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/Plus%20Minus.js) |
@@ -43,6 +43,7 @@ There are 3 exercises that cannot be passed using JavaScript, so I used python3 
 | 5 | [Missing Numbers](https://www.hackerrank.com/challenges/three-month-preparation-kit-missing-numbers/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%205/Missing%20Numbers.js) |
 | 5 | [The Full Counting Sort](https://www.hackerrank.com/challenges/three-month-preparation-kit-countingsort4/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%205/The%20Full%20Counting%20Sort.js) |
 | 5 | [Grid Challenge](https://www.hackerrank.com/challenges/three-month-preparation-kit-grid-challenge/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%205/Grid%20Challenge.js) |
+| 5 | [Sansa and XOR](https://www.hackerrank.com/challenges/three-month-preparation-kit-sansa-and-xor/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%205/Sansa%20and%20XOR.js) |
 
 
 
