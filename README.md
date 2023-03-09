@@ -2,7 +2,7 @@
 The JavaScript solutions from  [hackerrank](https://www.hackerrank.com/) in the plan "3 Months Preparation Kit". All solutions passes the tests.  
 There are 4 exercises that cannot be passed using JavaScript, so I used python3 to pass the test.
 
-# 3 Months Preparation Kit [41/104] + [1/1 Sample test]
+# 3 Months Preparation Kit [42/104] + [1/1 Sample test]
 | Week  | Challenge | Solution |
 | :---: | :---:     | :---:    |
 | 1 | [Plus Minus](https://www.hackerrank.com/challenges/three-month-preparation-kit-plus-minus)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%201/Plus%20Minus.js) |
@@ -47,6 +47,7 @@ There are 4 exercises that cannot be passed using JavaScript, so I used python3 
 | 6 | [Prime Dates](https://www.hackerrank.com/challenges/three-month-preparation-kit-prime-date)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%206/Prime%20Dates.py) |
 | 6 | [Sherlock and Array](https://www.hackerrank.com/challenges/three-month-preparation-kit-sherlock-and-array/)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%206/Sherlock%20and%20Array.js) |
 | 6 | [Misère Nim](https://www.hackerrank.com/challenges/three-month-preparation-kit-misere-nim-1)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%206/Mis%C3%A8re%20Nim.js) |
+| 6 | [Gaming Array 1](https://www.hackerrank.com/challenges/three-month-preparation-kit-an-interesting-game-1)  | [SOLUTION](https://github.com/VelascoCristian/Hackerrank-javascript/blob/main/Week%20-%206/Gaming%20Array%201.js) |
 
 
 
